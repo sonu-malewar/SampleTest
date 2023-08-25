@@ -28,7 +28,7 @@ public class CountUpperCaseChar {
 	
 	public static void main(String[] args) {
 		
-		toFindUppercaseChar("autoMATion");
+		toFindUppercaseChar("LearNong123");
 		
 	}
 
